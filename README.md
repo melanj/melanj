@@ -3,6 +3,8 @@
 
 ## I'm a computer programmer :computer:
 
+I've worked on several interesting projects over the years, unfortunately I cannot list most of my work here
+
 <!--
 **melanj/melanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
