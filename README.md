@@ -7,7 +7,11 @@ I've worked on several interesting projects over the years, unfortunately I cann
 
 Apart from work as a programmer, I am very interested in electronics, network engineering and embedded systems 
 
-I operate an IPv6 network [AS208755](https://bgp.he.net/AS208755) since 2019. It is now running with FRRouting but I started with Quagga     
+I operate an IPv6 network [AS208755](https://bgp.he.net/AS208755) since 2019. It is now running with FRRouting but I started with Quagga 
+
+### My most recently started projects
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=melanj&repo=looking-glass)](https://github.com/melanj/looking-glass) 
 
 <!--
 **melanj/melanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
