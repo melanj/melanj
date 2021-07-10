@@ -5,6 +5,10 @@
 
 I've worked on several interesting projects over the years, unfortunately I cannot list most of my work here
 
+Apart from work as a programmer, I am very interested in electronics, network engineering and embedded systems 
+
+I operate an IPv6 network [AS208755](https://bgp.he.net/AS208755) since 2019. It is now running with FRRouting but I started with Quagga     
+
 <!--
 **melanj/melanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
