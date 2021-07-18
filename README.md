@@ -7,7 +7,9 @@ I've worked on several interesting projects over the years, unfortunately I cann
 
 Apart from work as a programmer, I am very interested in electronics, network engineering and embedded systems 
 
-Since 2019, I operate an IPv6 network [AS208755](https://bgp.he.net/AS208755). It is now running with FRRouting but I started with Quagga 
+Since 2019, I operate an IPv6 network [AS208755](https://bgp.he.net/AS208755). It is now running with FRRouting but I started with Quagga
+
+These are my personal works and are neither endorsed by nor related to my employers.
 
 ### My most recently started projects
 
