@@ -14,6 +14,8 @@ These are my personal works and are neither endorsed by nor related to my employ
 ### My most recently started projects
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=melanj&repo=looking-glass)](https://github.com/melanj/looking-glass) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=melanj&repo=glade-gen)](https://github.com/melanj/glade-gen)
+
 
 <!--
 **melanj/melanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
