@@ -15,6 +15,7 @@ It is important to note that these projects are my personal initiatives, entirel
 
 ### My most recently started projects
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=melanj&repo=PS3Linux64)](https://github.com/melanj/PS3Linux64) 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=melanj&repo=looking-glass)](https://github.com/melanj/looking-glass) 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=melanj&repo=glade-gen)](https://github.com/melanj/glade-gen)
 
