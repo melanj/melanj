@@ -9,8 +9,6 @@ Outside of work, I primarily focus on C programming and exploring different proc
 
 Beyond my work as a programmer, I am deeply passionate about electronics, network engineering, and embedded systems. I spend much of my personal time experimenting with hardware design, building custom electronic systems, and exploring ways to optimize network infrastructure. My interest in embedded systems, in particular, drives me to integrate software and hardware, creating efficient and tailored solutions for unique applications.
 
-Since 2019, I operated an IPv6 network under <s>AS208755</s> (As of May 9, 2025, this ASN has been reassigned to a different owner by RIPE), which initially ran on Quagga before I transitioned to FRRouting. However, as of September 2024, this network is no longer active due to a combination of infrastructure failure and RIPE NCC's mandatory fees on ASNs. I'm now considering a fresh start with a new ASN, looking forward to rebuilding and enhancing my network infrastructure.
-
 It is important to note that these projects are my personal initiatives, entirely independent of my professional obligations, and are neither endorsed by nor affiliated with my employers.
 
 ### My most recently started projects
