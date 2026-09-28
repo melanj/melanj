@@ -5,7 +5,7 @@
 
 I've had the opportunity to work on numerous exciting and challenging projects throughout my career, many of which I cannot publicly disclose due to confidentiality agreements and proprietary constraints. However, these experiences have allowed me to deepen my expertise in various fields and refine my problem-solving and technical skills across a wide range of programming environments.
 
-My journey into programming started around 2001, when I first got my hands on VB6. Not long after, I found my way into C and Pascal, largely thanks to Borland's IDEs, which set the direction for the low-level, systems-oriented work I still gravitate toward today.
+My journey into programming started around 2001 with VB6, followed by C and Pascal through Borland's IDEs, which set the direction for the low-level, systems-oriented work I still gravitate toward today. Through my higher studies and career, Java has been my main focus, most recently building Spring Boot and Go microservices on Kubernetes.
 
 Outside of work, I primarily focus on C programming and exploring different processor architectures beyond the familiar x86 and ARM. I have a strong interest in working with systems that pose unique challenges, such as those with limited memory or heterogeneous CPU architectures. My experience with PowerPC includes writing software for Linux and *BSD on platforms like the PlayStation 3, Wii, and WiiU. The PlayStation 3, in particular, introduced me to SPU programming on the Cell Broadband Engine, which further deepened my understanding of parallel computing and low-level optimization.
 
