@@ -1,16 +1,19 @@
 ### Hi there, I'm Melan 👋
 
+I've been writing code since 2001 and working professionally since 2011. Most of my professional work is under NDA or proprietary, so I can't point to it publicly. What's here is the personal side: low-level, hardware, and network projects I build on my own time.
 
-## I'm a computer programmer :computer:
+My first language was VB6, followed by C and Pascal. That background shaped the systems-level work I still prefer. Professionally, Java has been my main language, most recently building Java and Go microservices on Kubernetes.
 
-I've had the opportunity to work on numerous exciting and challenging projects throughout my career, many of which I cannot publicly disclose due to confidentiality agreements and proprietary constraints. However, these experiences have allowed me to deepen my expertise in various fields and refine my problem-solving and technical skills across a wide range of programming environments.
+Outside work I mostly write C, and I like targets that are awkward: tight memory budgets, heterogeneous CPU topologies, and architectures beyond x86 and ARM.
 
-My journey into programming started around 2001 with VB6, followed by C and Pascal through Borland's IDEs, which set the direction for the low-level, systems-oriented work I still gravitate toward today. Through my higher studies and career, Java has been my main focus, most recently building Spring Boot and Go microservices on Kubernetes.
+- PowerPC: Linux and NetBSD userland and kernel-adjacent work on PlayStation 3, Wii, and WiiU.
+- Cell BE: The PS3 is where I learned SPU programming. Managing local store, DMA, and work partitioning across SPEs taught me a lot about parallelism and hand-optimizing for a specific microarchitecture.
+- RISC-V: In mid-July 2026 I got my first RISC-V hardware, a small Linux-capable SBC. It's the newest addition to the board collection.
 
-Outside of work, I primarily focus on C programming and exploring different processor architectures beyond the familiar x86 and ARM. I have a strong interest in working with systems that pose unique challenges, such as those with limited memory or heterogeneous CPU architectures. My experience with PowerPC includes writing software for Linux and *BSD on platforms like the PlayStation 3, Wii, and WiiU. The PlayStation 3, in particular, introduced me to SPU programming on the Cell Broadband Engine, which further deepened my understanding of parallel computing and low-level optimization.
+I run a home lab built around second-hand carrier-grade gear: old Cisco and Juniper routers and switches. Running real IOS and Junos on retired hardware is a cheap way to learn how production networks behave, including the quirks and failure modes that vendor docs gloss over.
 
-More recently, in mid-July 2026, I got my hands on my first piece of RISC-V hardware, a small SBC capable of running Linux which has quickly become a great addition to my collection. I enjoy pushing the limits of these architectures, developing applications that efficiently operate under constrained environments.
+I also have my own ASN and work with BGP directly: announcing prefixes, configuring sessions, and tuning routing policy, rather than just reading about it. Having a real autonomous system to experiment with makes routing concepts concrete in a way a lab simulator can't.
 
-Beyond my work as a programmer, I am deeply passionate about electronics, network engineering, and embedded systems. I spend much of my personal time experimenting with hardware design, building custom electronic systems, and exploring ways to optimize network infrastructure. My interest in embedded systems, in particular, drives me to integrate software and hardware, creating efficient and tailored solutions for unique applications.
+I also interested in hardware design, custom boards, and bringing up small systems. I'm most interested in where software and hardware meet, and in building tailored, resource-efficient solutions for specific applications.
 
-It is important to note that these projects are my personal initiatives, entirely independent of my professional obligations, and are neither endorsed by nor affiliated with my employers.
+These are personal projects. They are independent of my employment and are not endorsed by or affiliated with any employer.
